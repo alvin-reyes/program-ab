@@ -2,12 +2,14 @@
 
 Fork of [Program AB](http://alicebot.blogspot.co.id/2013/01/program-ab-aiml-20-reference.html), the reference implementation of the AIML 2.0 draft specification. AIML is a widely adopted standard for creating chat bots and mobile virtual assistants like ALICE, Mitsuku, English Tutor, The Professor, S.U.P.E.R. and many more.
 
-This is my fork f Program AB. The goal is to:
+This is my fork of Program AB. The goal is to:
 
 - clean up the existing code and create test cases to be used. 
 - introduce a structure so that it can be easily used by developers.
 - create proper documentation of the source available
 - deploy/upload it in Maven Repository.
+
+This is based on lumenrobot/program-ab fork - I just want to clean up the actual code and put some unit test case for it.
 
 ## Usage - Use Soluvas's Repository
 
